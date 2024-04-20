@@ -22,4 +22,4 @@ You can contact with me on [Linkedin](https://www.linkedin.com/in/tu%C4%9Fba-nur
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tugbanuraslan7.tugbanuraslan7">
+
