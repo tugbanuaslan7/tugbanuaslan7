@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caladea&size=22&pause=1000&color=6099F7&center=true&vCenter=true&random=false&width=435&lines=HELLO!+I+AM+TU%C4%9EBA!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&random=false&width=435&lines=HELLO!+I+AM+TU%C4%9EBA!)](https://git.io/typing-svg)
 
 ## About Me
 
