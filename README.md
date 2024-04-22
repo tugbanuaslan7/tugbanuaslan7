@@ -20,6 +20,6 @@ You can contact with me on [LinkedIn](https://www.linkedin.com/in/tu%C4%9Fba-nur
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugbanuaslan7&layout=donut" />
 </a>
 
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tugbanuraslan7.tugbanuraslan7">
 
 
