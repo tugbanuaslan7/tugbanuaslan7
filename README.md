@@ -5,7 +5,7 @@
 I am a computer engineering student at Yalova University.
 I'm always open to learning and growing in the fields of computer science and software. 
 
-You can contact with me on [Linkedin](https://www.linkedin.com/in/tu%C4%9Fba-nur-aslan-4aa86a258/)  or [tugbanur.aslan7@gmail.com](mailto:tugbanur.aslan7@gmail.com).
+You can contact with me on [LinkedIn](https://www.linkedin.com/in/tu%C4%9Fba-nur-aslan-4aa86a258/)  or [tugbanur.aslan7@gmail.com](mailto:tugbanur.aslan7@gmail.com).
 
 
 
