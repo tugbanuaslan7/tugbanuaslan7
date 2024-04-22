@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&random=false&width=435&lines=HELLO!+I+AM+TU%C4%9EBA!)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tugbanuaslan7&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tugbanuaslan7&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 ## About Me
 
 I am a computer engineering student at Yalova University.
